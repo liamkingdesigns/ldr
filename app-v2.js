@@ -17,9 +17,9 @@ const completionRate = (daysSince / (daysSince + daysTill)) * 100;
 
 // UI manipulation
 document.getElementById("number-days").innerHTML = daysSince;
-document.getElementById("subheader").innerHTML = daysTill;
 
-document.getElementById("temp").innerHTML = Math.round(completionRate);
+// document.getElementById("subheader").innerHTML = daysTill;
+// document.getElementById("temp").innerHTML = Math.round(completionRate);
 
 document.querySelector(".progress").style.width = completionRate * 0.97 + "%";
 document.getElementById("completion-rate").innerHTML =
