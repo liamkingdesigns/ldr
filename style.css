@@ -139,7 +139,7 @@ body {
     width: 48px;
     border-radius: 100px;
     overflow: hidden;
-    background-image: url(/assets/us-01.jpg);
+    background-image: url(https://liamkingdesigns.github.io/ldr/assets/us-01.jpg);
     background-size: 52px;
     background-position: center;
     border: 2px solid #BD56FC;
@@ -189,5 +189,5 @@ body {
 
 @font-face {
     font-family: "Degular";
-    src: url("/assets/DegularText-Regular.otf") format("opentype");
+    src: url("https://liamkingdesigns.github.io/ldr/assets/DegularText-Regular.otf") format("opentype");
     }
