@@ -92,6 +92,12 @@ body {
     font-family: Helvetica, sans-serif;
 }
 
+@media screen and (min-width: 500px) {
+    .date-label {
+        font-size: 10px;
+    }
+}
+
 .backing {
     background-color: #D9D9D91b;
     width: 100%;
