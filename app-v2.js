@@ -21,7 +21,7 @@ document.getElementById("number-days").innerHTML = daysSince;
 // document.getElementById("subheader").innerHTML = daysTill;
 // document.getElementById("temp").innerHTML = Math.round(completionRate);
 
-document.querySelector(".progress").style.width = completionRate * 1 + "%";
+document.querySelector(".progress").style.width = completionRate * 1.02 + "%";
 document.getElementById("completion-rate").innerHTML =
   Math.round(completionRate) + "%";
 
