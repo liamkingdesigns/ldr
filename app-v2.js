@@ -1,6 +1,6 @@
 // Inherent variables
 const submitDate = new Date("Apr 14, 2022 00:00:00").getTime();
-const finishDate = new Date("Mar 14, 2023 00:00:00").getTime();
+const finishDate = new Date("Aug 1, 2023 00:00:00").getTime();
 const now = new Date().getTime();
 // const now = new Date("oct 06, 2022 00:00:00").getTime();
 
