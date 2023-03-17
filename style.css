@@ -95,6 +95,7 @@ body {
 @media screen and (min-width: 500px) {
     .date-label {
         font-size: 10px;
+        color: purple;
     }
 }
 
